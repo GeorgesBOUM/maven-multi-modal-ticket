@@ -45,6 +45,8 @@
             </dependency>
 
             <!-- ===== Bibliotheques tierces ===== -->
+            <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-collections4 -->
+
         </dependencies>
   </dependencyManagement>
 
